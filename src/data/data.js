@@ -1,0 +1,32 @@
+export const imges =[
+    {
+        imge:"https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/barnd_dark03.png"
+    },
+    {
+        imge:"https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/barnd_dark03.png"
+    },
+    {
+        imge:"https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/barnd_dark03.png"
+    },
+    {
+        imge:"https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/barnd_dark03.png"
+    },
+    {
+        imge:"https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/barnd_dark03.png"
+    },
+    {
+        imge:"https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/barnd_dark03.png"
+    },
+    {
+        imge:"https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/barnd_dark03.png"
+    },
+    {
+        imge:"https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/barnd_dark03.png"
+    },
+    {
+        imge:"https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/barnd_dark03.png"
+    },
+    {
+        imge:"https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/barnd_dark03.png"
+    },
+]

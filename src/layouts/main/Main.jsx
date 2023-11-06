@@ -5,7 +5,7 @@ import Footer from "../../pages/shaerd/footer/Footer";
 
 const Main = () => {
     return (
-        <div className="bg-black text-white">
+        <div className="bg-black text-white ">
             <Navbar />
             <Outlet />
             <Footer />
