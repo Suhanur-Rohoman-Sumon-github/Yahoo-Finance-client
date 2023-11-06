@@ -3,7 +3,7 @@
 const Sinup = () => {
     return (
         <div>
-            <h1>this is sinup page </h1>
+            <h1>this is sinup</h1>
         </div>
     );
 };
