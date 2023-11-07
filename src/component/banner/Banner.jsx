@@ -3,8 +3,8 @@ import groovyWalkAnimation from "../../assets/lottie-jsons/home.json";
 import { FaFacebookF, FaInstagram, FaLinkedinIn, FaTwitter, FaYoutube } from "react-icons/fa";
 const Banner = () => {
     return (
-        <div className="hero min-h-screen mx">
-            <div className="hero-content flex-col lg:flex-row-reverse">
+        <div className="hero min-h-screen  green-bg">
+            <div className="hero-content flex-col lg:flex-row-reverse mx">
                 <Lottie animationData={groovyWalkAnimation} loop={true} />
                 <div className="">
                     <h1 className="primary-text">Invest Your Money <br /> With <span className="text-green-500">Higher Return</span>

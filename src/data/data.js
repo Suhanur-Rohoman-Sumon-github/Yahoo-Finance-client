@@ -59,7 +59,7 @@ export const roadmaps = [
     },
 ]
 
-export const adviser = [
+export const advisers = [
     {
         name:'Denial russel ',
         img:"https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/team_dark_01.png",
