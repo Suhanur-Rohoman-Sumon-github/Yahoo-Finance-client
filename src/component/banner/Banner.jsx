@@ -9,7 +9,7 @@ const Banner = () => {
                 <div className="">
                     <h1 className="primary-text">Invest Your Money <br /> With <span className="text-green-500">Higher Return</span>
                     </h1>
-                    <p className="py-6 text-gray-300 ">Anyone can invest money to different currency to increase their earnings by the help of Bitrader through online.</p>
+                    <p className="secendary-text ">Anyone can invest money to different currency to increase their earnings by the help of Bitrader through online.</p>
                     <button className="btn-primary">Get Started</button>
                     <button className="ml-2 btn-secendary">Get Started</button>
                     <p className="text-2xl font-bold text-white my-10">Follow Us</p>
