@@ -2,7 +2,7 @@
 
 const Offer = () => {
     return (
-        <div className="hero min-h-screen ">
+        <div className="hero min-h-screen green-bg ">
         <div className="hero-content flex-col lg:flex-row-reverse items-center">
         <div className="md:w-[50%]">
         <img src="https://i.ibb.co/yfNjzSX/dolar.webp" className="w-full h-full" />

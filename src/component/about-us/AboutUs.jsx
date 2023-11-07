@@ -3,7 +3,7 @@ import groovyWalkAnimation from "../../assets/lottie-jsons/about.json"
 
 const AboutUs = () => {
     return (
-        <div className="hero min-h-screen ">
+        <div className="hero min-h-screen mx">
             <div className="hero-content flex-col lg:flex-row">
                 <div className="md:w-[45%] relative">
                     <Lottie animationData={groovyWalkAnimation} loop={true} />
