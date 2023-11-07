@@ -102,3 +102,11 @@ export const advisers = [
     },
   
 ]
+
+export const stockdatas = [
+    { "name": "AAPL" },
+    { "name": "MSFT" },
+    { "name": "TSLA" },
+    { "name": "AMZN" },
+    { "name": "META" }
+  ]
