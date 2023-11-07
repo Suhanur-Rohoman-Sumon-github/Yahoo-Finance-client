@@ -14,7 +14,7 @@ const Navbar = () => {
                         <li><a>Item 3</a></li>
                     </ul>
                 </div>
-                <img src="https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/secondary_logo-1.svg" className="w-16 h-16" alt="" />
+                <Link to={"/"}><img src="https://bitrader.thetork.com/dark/wp-content/uploads/2023/10/secondary_logo-1.svg" className="w-16 h-16" alt="" /></Link>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className=" menu-horizontal px-1">

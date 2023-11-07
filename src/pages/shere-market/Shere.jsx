@@ -7,7 +7,7 @@ const Shere = () => {
     const [datas, setDatas] = useState()
     return (
 
-        <div className="flex  w-full py-40 green-bg">
+        <div className="flex  w-full py-40 ">
 
             <div className=" md:w-[20%]">
 
